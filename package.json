@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ErickGarciaC/Wolf/issues"
   },
-  "homepage": "https://github.com/ErickGarciaC/Wolf#readme"
+  "homepage": "https://github.com/ErickGarciaC/Wolf#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
